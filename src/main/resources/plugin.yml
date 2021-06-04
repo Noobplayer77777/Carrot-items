@@ -1,0 +1,10 @@
+name: Carrot_items
+version: ${project.version}
+main: me.noob.minecraft.carrot_items.Carrot_items
+api-version: 1.16
+authors: [ noobplayer77777 ]
+description: custom carrot items
+commands:
+  CarrotSword:
+    description: this is carrot sword
+    usage: /<command>
